@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\bin\Debug\netcoreapp3.1\TaskHotelRoom.exe
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\bin\Debug\netcoreapp3.1\TaskHotelRoom.deps.json
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\bin\Debug\netcoreapp3.1\TaskHotelRoom.runtimeconfig.json
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\bin\Debug\netcoreapp3.1\TaskHotelRoom.runtimeconfig.dev.json
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\bin\Debug\netcoreapp3.1\TaskHotelRoom.dll
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\bin\Debug\netcoreapp3.1\TaskHotelRoom.pdb
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.AssemblyInfo.cs
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.dll
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.pdb
+C:\Users\User\Desktop\PRACTIC\Hotel_room_reservation\TaskHotelRoom\TaskHotelRoom\obj\Debug\netcoreapp3.1\TaskHotelRoom.genruntimeconfig.cache
